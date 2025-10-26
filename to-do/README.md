@@ -17,21 +17,6 @@ A simple To-Do application built with **React** and **Vite**. Users can add task
 
 ---
 
-## Installation
+## Screenshot
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/87118b7b-2519-424e-b128-6d545c5543be" />
 
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Navigate into the project folder:
-   ```bash
-   cd todo-app
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the development server:
-    ```bash
-    npm run dev
-    ```
